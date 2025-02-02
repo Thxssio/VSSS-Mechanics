@@ -17,12 +17,12 @@ The VSSS project consists of developing a team of robots that can communicate, m
 To execute this project, you will need the following components:
 
 - **Hardware**:
-- Mobile robots (with motors, sensors and microcontrollers).
-- Cameras for computer vision.
-- Computer for image processing and strategy.
-- Ball and playing field.
+  - Mobile robots (with motors, sensors and microcontrollers).
+  - Cameras for computer vision.
+  - Computer for image processing and strategy.
+  - Ball and playing field.
 
 - **Software**:
-- Development environment (e.g. ROS, Python, C++).
-- Computer vision libraries (e.g. OpenCV).
-- Firmware for the robots (e.g. Arduino, ESP32).
+  - Development environment (e.g. ROS, Python, C++).
+  - Computer vision libraries (e.g. OpenCV).
+  - Firmware for the robots (e.g. Arduino, ESP32).
